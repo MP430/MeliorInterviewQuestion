@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32317.152
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Melior.InterviewQuestion", "Melior.InterviewQuestion\Melior.InterviewQuestion.csproj", "{E370928D-C4D9-4EDC-8AEC-684D4D4E8B6D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Melior.InterviewQuestion.Test", "Melior.InterviewQuestion.Test\Melior.InterviewQuestion.Test.csproj", "{B9608A60-10E3-4BF5-857B-C80C3E4FE688}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E370928D-C4D9-4EDC-8AEC-684D4D4E8B6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E370928D-C4D9-4EDC-8AEC-684D4D4E8B6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E370928D-C4D9-4EDC-8AEC-684D4D4E8B6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9608A60-10E3-4BF5-857B-C80C3E4FE688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9608A60-10E3-4BF5-857B-C80C3E4FE688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9608A60-10E3-4BF5-857B-C80C3E4FE688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9608A60-10E3-4BF5-857B-C80C3E4FE688}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
